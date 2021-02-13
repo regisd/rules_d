@@ -2,6 +2,8 @@
 
 # D rules
 
+Bazel rules for the [D programming language](https://dlang.org/).
+
 ## Status
 
 We make sure this repository works with the latest version of Bazel, but no
